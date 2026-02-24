@@ -187,4 +187,8 @@ The following Excel skills were utilized for analysis:
 - This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
 
 ----------------------------------------------------------------------------------------------------
+## 🌟 About Me
 
+Hi there! I'm **Novia Noer Ramdiany**. I’m passionate on data fields.
+
+Let's stay in touch! Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/noviaramdiany/
